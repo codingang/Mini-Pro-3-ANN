@@ -5,7 +5,7 @@ Mini-Project 3 - Artificial Neural Networks
 ![image](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 # Google Doc Link
-[Click Here](https://docs.google.com/presentation/d/1O7YxtzpCM9tSsYRD5fpNYKkOmfu5-m0WCacqg0ekCHU/edit#slide=id.g26dcd4863b_0_0)
+[Need to be updated](https://docs.google.com/presentation/d/1O7YxtzpCM9tSsYRD5fpNYKkOmfu5-m0WCacqg0ekCHU/edit#slide=id.g26dcd4863b_0_0)
 
 ## Contributor
 1. [Cheng Yuan](https://github.com/Cheng-Yuan-0124/)
